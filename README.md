@@ -1,1 +1,2 @@
-# .cantek
+BELAJAR CSS & HTML
+semangat!
