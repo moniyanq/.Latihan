@@ -28,7 +28,7 @@
     .cards {
         justify-content: center;
         flex-wrap: wrap;
-    }
+    }    
 
     .card {
         width: 25%;
@@ -57,14 +57,11 @@
     .topnav .header-right {
         float: none;
     }
-    .header-left {
-      flex-wrap: wrap;
-    }
 
     .topnav .responsive {
         position: relative;
     }
-
+    
     .topnav .responsive .menu-icon {
         position: absolute;
         right: 0;
@@ -128,7 +125,7 @@
         justify-content: center;
         flex-direction: column;
     }
-
+    
     .card {
         width: 50%;
         margin: 30px auto;
