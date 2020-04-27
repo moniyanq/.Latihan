@@ -57,7 +57,9 @@
     .topnav .header-right {
         float: none;
     }
-
+    .header-left {
+      flex-wrap: wrap;
+    }
     .topnav .responsive {
         position: relative;
     }
