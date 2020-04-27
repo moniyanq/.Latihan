@@ -1,2 +1,2 @@
 BELAJAR CSS & HTML
-semangat!
+JIA YOU!
