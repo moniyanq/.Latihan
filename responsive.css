@@ -58,7 +58,7 @@
         float: none;
     }
     .header-left h1 {
-      flex-wrap: wrap;
+       display:inline-flex;
     }
     .topnav .responsive {
         position: relative;
